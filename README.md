@@ -1,6 +1,3 @@
-
-Certainly! Here's a compiled README file content for your "My Anime To-Do List" project:
-
 My Anime To-Do List
 Welcome to My Anime To-Do List, a web application to manage your anime-related tasks and lists.
 
