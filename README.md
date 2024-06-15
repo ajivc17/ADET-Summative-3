@@ -5,11 +5,6 @@ Features
 Create and manage tasks related to anime titles.
 Mark tasks as completed and track your progress.
 Update and delete tasks as needed.
-Screenshots
-
-
-
-
 Setup Instructions
 Follow these steps to set up and run the project locally on your machine.
 
